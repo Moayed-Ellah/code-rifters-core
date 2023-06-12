@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "33442e2c08428169",
+    "type": "split",
+    "children": [
+      {
+        "id": "d21d3dd91860a9df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f01914aaee6875",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0088eb1e12ccde41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75553d37ac66644d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec07650fb701dcb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b87487e1fa7ec3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61a0bc73c2301997",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ee480504372e8eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "66d40b5db8ea6494",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af6cbbec1b38599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a02c22e3beea1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ee7436ffe71f9f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8ae3b0a8dbdb7fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d5e543e9a5588817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home.md"
+              }
+            }
+          },
+          {
+            "id": "afb7c9daa3182951",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0088eb1e12ccde41",
+  "lastOpenFiles": [
+    "netlify.toml",
+    "home.md",
+    "main.py",
+    "core team/Nada Mahmoud.md",
+    "core team/Abdallah Ahmed.md",
+    "core team/Mohamed Reda.md",
+    "core team/Moayed Ellah.md",
+    "core team/Judy Mohamed.md",
+    "code-rifters-core/_pages/index.md",
+    "code-rifters-core/_pages/about.md",
+    "code-rifters-core/_notes/your-first-note.md",
+    "code-rifters-core/_notes/안녕하세요.md",
+    "code-rifters-core/_notes/move your body every day.md",
+    "code-rifters-core/styles.scss",
+    "code-rifters-core/netlify.toml",
+    "code-rifters-core/assets/jazzyfrenchy.mp3",
+    "code-rifters-core/assets/image.jpg",
+    "code-rifters-core/assets",
+    "code-rifters-core/_sass/_style.scss",
+    "code-rifters-core/_sass/_normalize.scss",
+    "code-rifters-core/_sass/_code.scss",
+    "code-rifters-core/_sass",
+    "code-rifters-core/_plugins/open_external_links_in_new_tab.rb",
+    "code-rifters-core/_notes/animals/tigers.md",
+    "code-rifters-core/_notes/animals/cats.md",
+    "code-rifters-core/_notes/consistency.md",
+    "code-rifters-core/_notes/accents.md",
+    "code-rifters-core/README.md",
+    "space-garden/_pages/index.md",
+    "space-garden/_notes/Team_Alpha/Moayed.md",
+    "space-garden/_notes/Team_Alpha/Mohamed basha el 3tar.md",
+    "space-garden/_notes/Team_Alpha/index.md",
+    "space-garden/_pages/about.md",
+    "space-garden/_notes/team_delta/new user.md",
+    "{{ note.url }}.md",
+    "space-garden/_notes/How to install more ram.md"
+  ]
+}

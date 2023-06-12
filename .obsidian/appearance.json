@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "interfaceFontFamily": "Cascadia Code,JetBrainsMono Nerd Font",
+  "showViewHeader": false,
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Inter"
+}
